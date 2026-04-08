@@ -8,7 +8,7 @@ It demonstrates my understanding of **data analysis, preprocessing, model buildi
 ##  Projects
 
 ### 1. Insurance Prediction
-- Performed EDA and data preprocessing  
+- Performed EDA and data preprocessing steps 
 - Built a **Linear Regression** model  
 - Predicted insurance charges  
 
@@ -17,13 +17,13 @@ It demonstrates my understanding of **data analysis, preprocessing, model buildi
   - Logistic Regression  
   - KNN  
   - Decision Tree  
-  - SVM  
-- Compared model performance for accuracy  
+  - SVM  (Suport vector machine)
+- Compared model performance and checked accuracy  
 
 ### 3. Titanic Survival Prediction
 - Data cleaning and feature selection  
 - Trained classification models  
-- Compared results to identify best model  
+- Compared results to identify best model suits for this project  
 
 ### 4. Ford Car Price Prediction
 - Worked on Kaggle dataset  
