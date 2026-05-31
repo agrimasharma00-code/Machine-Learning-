@@ -49,7 +49,7 @@ It demonstrates my understanding of **data analysis, preprocessing, model buildi
 - Regression & classification  
 - Model evaluation & comparison  
 - Real-world prediction tasks  
--Supervised Learning
+-Supervised Learning & Unsupervised Learning
 ---
 
 ##  Key Learning
